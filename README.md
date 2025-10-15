@@ -13,6 +13,7 @@ Tecnologías que manejo:
 Proyectos:
 - Página web para tienda de ropa y suplementos  
 - Página institucional para escuela  
-- Página web para barbería  
+- Página web para barbería
+- Página web par Gimnacio
 
 Contáctame: jorgesam2302@gmail.com
