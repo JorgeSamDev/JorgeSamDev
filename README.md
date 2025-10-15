@@ -1,16 +1,18 @@
-## Hi there 👋
+#  Hola, soy Jorge Salgado Martínez
+Estudiante de Ingeniería en Sistemas Computacionales en Grupo Isima.
 
-<!--
-**JorgeSamDev/JorgeSamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Áreas de interés:
+- Ciberseguridad  
+- Bases de datos   
+- Desarrollo web   
 
-Here are some ideas to get you started:
+Tecnologías que manejo:
+- C++, Java, PHP, HTML, CSS, JavaScript  
+- MySQL, Oracle, Git, Visual Studio Code, NetBeans  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proyectos:
+- Página web para tienda de ropa y suplementos  
+- Página institucional para escuela  
+- Página web para barbería  
+
+Contáctame: jorgesam2302@gmail.com
