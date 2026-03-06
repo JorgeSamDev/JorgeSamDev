@@ -3,8 +3,7 @@ Estudiante de Ingeniería en Sistemas Computacionales en Grupo Isima.
 
 Áreas de interés:
 - Ciberseguridad  
-- Bases de datos   
-- Desarrollo web   
+- Desarrollo web/software   
 
 Tecnologías que manejo:
 - C++, Java, PHP, HTML, CSS, JavaScript  
